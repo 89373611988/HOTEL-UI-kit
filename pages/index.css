@@ -4,14 +4,27 @@
 
 @import url("../blocks/header-footers/header-footers.css");
 @import url("../blocks/header-footers/_indent/header-footers_indent.css");
+
 @import url("../blocks/header/header.css");
-@import url("../blocks/header/__list-item/header__list-item.css");
-@import url("../blocks/header/__list/header__list.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__menu/header__menu.css");
 @import url("../blocks/header/__button-login/header__button-login.css");
 @import url("../blocks/header/__button-register/header__button-register.css");
+@import url("../blocks/header/__name/header__name.css");
+@import url("../blocks/header/__rectangle/header__rectangle.css");
+
+@import url("../blocks/header-list/header-list.css");
+@import url("../blocks/header-list/__item/header-list__item.css");
 
 @import url("../blocks/logo/logo.css");
+@import url("../blocks/logo/_indent/logo_indent.css");
+@import url("../blocks/logo/__right/logo__right.css");
+@import url("../blocks/logo/__left/logo__left.css");
+@import url("../blocks/logo/__circle/logo__circle.css");
 @import url("../blocks/logo-name/logo-name.css");
+
+@import url("../blocks/tick/tick.css");
+@import url("../blocks/tick/__menu/tick__menu.css");
 
 @import url("../blocks/footer/footer.css");
 

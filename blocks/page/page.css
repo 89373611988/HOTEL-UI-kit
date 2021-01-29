@@ -1,15 +1,16 @@
 * {
-  outline-width: 1px;
-  outline-style: solid;
-  outline-color: red;
+   outline-width: 1px;
+   outline-style: solid;
+   outline-color: red;
 }
 
 .page {
   font-style: normal;
   margin: 0 auto;
   color: #000000;
-  background-color: #e5e5e5;
+  background-color: rgba(31, 32, 65, 5%);
   max-height: 500px;
+  position: relative;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
