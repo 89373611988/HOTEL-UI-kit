@@ -1,0 +1,8 @@
+.footer-creative__logo {
+  width: 106px;
+  margin: 0 auto 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

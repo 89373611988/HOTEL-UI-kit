@@ -1,11 +1,10 @@
 .header-list__item {
   margin-left: 20px;
-  padding: 0;
-  color: rgba(31, 32, 65, 0.5);
 }
 
 .header-list__item:first-child {
   margin-left: 0;
   color: rgba(31, 32, 65, 0.75);
   font-weight: bold;
+  color: #1f2041;
 }

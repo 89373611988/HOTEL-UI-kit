@@ -5,11 +5,14 @@
 }
 
 .page {
+  font-family: "Montserrat";
   font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
   margin: 0 auto;
-  color: #000000;
+  color: rgba(31, 32, 65, 0.75);
   background-color: rgba(31, 32, 65, 5%);
-  max-height: 500px;
   position: relative;
 
   -webkit-font-smoothing: antialiased;
